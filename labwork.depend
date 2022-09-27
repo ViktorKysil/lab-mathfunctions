@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664273423 source:c:\users\kisev\desktop\kpiprj\labwork\main.c
+	<stdio.h>
+	<stdlib.h>
+
