@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// Disable warnings
+#define _CRT_SECURE_NO_WARNINGS
+#define _VCRUNTIME_DISABLED_WARNINGS
+
 #define Name "Viktor"
 #define LastName "Kysil"
 #define GroupName "RE-21"
